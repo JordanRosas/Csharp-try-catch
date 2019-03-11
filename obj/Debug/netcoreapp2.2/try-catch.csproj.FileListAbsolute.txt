@@ -1,0 +1,11 @@
+C:\Users\Jordan\backend\workspace\try-catch\obj\Debug\netcoreapp2.2\try-catch.csprojAssemblyReference.cache
+C:\Users\Jordan\backend\workspace\try-catch\obj\Debug\netcoreapp2.2\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\backend\workspace\try-catch\obj\Debug\netcoreapp2.2\try-catch.AssemblyInfoInputs.cache
+C:\Users\Jordan\backend\workspace\try-catch\obj\Debug\netcoreapp2.2\try-catch.AssemblyInfo.cs
+C:\Users\Jordan\backend\workspace\try-catch\bin\Debug\netcoreapp2.2\try-catch.deps.json
+C:\Users\Jordan\backend\workspace\try-catch\bin\Debug\netcoreapp2.2\try-catch.runtimeconfig.json
+C:\Users\Jordan\backend\workspace\try-catch\bin\Debug\netcoreapp2.2\try-catch.runtimeconfig.dev.json
+C:\Users\Jordan\backend\workspace\try-catch\bin\Debug\netcoreapp2.2\try-catch.dll
+C:\Users\Jordan\backend\workspace\try-catch\bin\Debug\netcoreapp2.2\try-catch.pdb
+C:\Users\Jordan\backend\workspace\try-catch\obj\Debug\netcoreapp2.2\try-catch.dll
+C:\Users\Jordan\backend\workspace\try-catch\obj\Debug\netcoreapp2.2\try-catch.pdb
